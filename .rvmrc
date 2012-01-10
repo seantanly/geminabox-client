@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+ruby_string="ruby-1.9.3-p0"
+gemset_name="geminabox-client"
+
+rvm --create "${ruby_string}@${gemset_name}"
+rvm use "${ruby_string}@${gemset_name}"
+
