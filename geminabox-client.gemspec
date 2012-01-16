@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version     = Geminabox::Client::VERSION
   s.authors     = ["Sean Tan"]
   s.email       = ["sean.tan.sg@gmail.com"]
-  s.homepage    = ""
+  s.homepage    = "https://github.com/seantan/geminabox-client"
   s.summary     = %q{Client for pushing to your geminabox server}
   s.description = %q{Extracted from the original geminabox source for pushing to you geminabox server}
 
